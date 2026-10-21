@@ -1,0 +1,27 @@
+{
+  "name": "task-manager-api-mongoose-24cs036",
+  "version": "1.0.0",
+  "description": "Practical 5: MongoDB Integration and Schema Design with Mongoose - ITUE301 Advanced Web Development Frameworks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "express",
+    "rest-api",
+    "schema-validation",
+    "awdf",
+    "itue301"
+  ],
+  "author": "Raviraj Kamejaliya (24CS036)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
